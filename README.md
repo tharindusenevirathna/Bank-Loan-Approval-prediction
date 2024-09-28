@@ -1,5 +1,3 @@
-### README for Bank Loan Approval Prediction Using ANN
-
 # Bank Loan Approval Prediction Using Artificial Neural Network (ANN)
 
 This project involves building a machine learning model using an Artificial Neural Network (ANN) to predict whether a bank depositor is likely to purchase a personal loan. By leveraging customer demographic data, this model aims to identify potential customers who are more likely to avail of personal loans, thus helping the bank optimize its marketing efforts and increase loan sales.
